@@ -1,0 +1,1 @@
+Logging the readFileSync results of the first and second files: Hello from the first file, Hello from the second fileLogging the readFileSync results of the first and second files: Hello from the first file, Hello from the second file
